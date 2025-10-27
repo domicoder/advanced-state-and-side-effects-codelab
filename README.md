@@ -13,6 +13,7 @@ Build, Execution, Deployment -> Gradle -> Gradle JDK -> OpenJDK 17
 ```
 
 <img src="https://image.prntscr.com/image/cehVim8JT7ib3IauJHvc-A.png" width="400" alt="AdvancedStateAndSideEffectsCodelab" />
+<img src="https://image.prntscr.com/image/_OX7XB8ZQ0io9lcvXDnkxQ.png" width="400" alt="AdvancedStateAndSideEffectsCodelab done 2" />
 
 This folder contains the source code for the
 [Advanced State in Jetpack Compose Codelab](https://developer.android.com/codelabs/jetpack-compose-advanced-state-side-effects)
